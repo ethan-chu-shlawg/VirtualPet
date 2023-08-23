@@ -1,20 +1,25 @@
 size(500,450);
+noStroke();
 //tail
-fill(#5D4000);
+fill(#E09110);
 triangle(300,225,475,275,475,175);
 //behind body leg things
 ellipse(320,305,50,75);
 ellipse(200,305,50,75);
 //body
 noStroke();
-fill(#A77302);
+fill(#60B7DE);
 ellipse(300,225,250,175);
 ellipse(225,225,300,150);
+//hat
+fill(#836A04);
+rect(40,160,200,25);
+rect(75,100,140,70);
 //eyes
 fill(#030303);
 circle(124,206,20);
 //mouth thing
-fill(#5D4000);
+fill(#E09110);
 rect(90,235,20,14);
 ellipse(75,235,70,20);
 ellipse(75,250,70,20);
