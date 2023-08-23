@@ -1,8 +1,11 @@
+size(500,450);
 
-void setup(){
-  //some of your code here
-}
-void draw(){
-  //more of your code here
-}
+noStroke();
+fill(255,0,100);
+ellipse(220,225,300,150);
+rect(300,200,100,50);
+triangle(300,225,450,275,450,175);
+
+fill(100,100,100);
+ellipse(124,206,35,35);
 
