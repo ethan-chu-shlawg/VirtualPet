@@ -19,7 +19,6 @@ fill(#836A04);
 rect(40,160,200,25);
 //eyes
 fill(#030303);
-circle(124,206,20);
 //mouth thing
 fill(#E09110);
 rect(90,235,20,14);
